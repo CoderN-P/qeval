@@ -1,0 +1,115 @@
+{
+      "questions": 
+      [
+    {
+        "question": "An object is thrown with an initial velocity of 20 m/s at an angle of 30 degrees above the horizontal. What is the time it takes to reach the highest point of the trajectory?",
+        "options": {
+            "A": "2.0 s",
+            "B": "1.0 s",
+            "C": "3.0 s",
+            "D": "4.0 s"
+        },
+        "correct_option": "B",
+        "solution": "At the highest point, the vertical velocity becomes zero. Use the equation v_y = v_{yo} + a_y * t. Since a_y is -9.8 m/s² and v_y = 0, the time can be calculated as t = (0 - v_{yo}) / a_y. The initial vertical velocity is v_{yo} = v_0 * sin(30) = 20 * 0.5 = 10 m/s. Therefore, t = 10 / 9.8 ≈ 1.0 s."
+    },
+    {
+        "question": "An object is launched with an initial velocity of 30 m/s at an angle of 45 degrees. What is the maximum height reached by the object?",
+        "options": {
+            "A": "22.5 m",
+            "B": "45.0 m",
+            "C": "15.0 m",
+            "D": "30.0 m"
+        },
+        "correct_option": "A",
+        "solution": "First, find the initial vertical velocity: v_{yo} = v_0 * sin(45) = 30 * 0.707 ≈ 21.21 m/s. Use the equation v_y² = v_{yo}² + 2a_y(y - y_o) and set v_y = 0 at the highest point. Solving for y, y = y_o + v_{yo}² / (2 * |a_y|) = 0 + (21.21)² / (2 * 9.8) ≈ 22.5 m."
+    },
+    {
+        "question": "An object is moving in 2D with an initial velocity of 12 m/s at 60 degrees above the horizontal. What is the horizontal component of its velocity?",
+        "options": {
+            "A": "12 m/s",
+            "B": "6 m/s",
+            "C": "10 m/s",
+            "D": "6.5 m/s"
+        },
+        "correct_option": "C",
+        "solution": "The horizontal component of velocity is found by v_x = v_0 * cos(60) = 12 * 0.5 = 6 m/s."
+    },
+    {
+        "question": "A projectile is launched at an angle of 45 degrees with an initial speed of 20 m/s. What is the time it takes to land back at the original level?",
+        "options": {
+            "A": "2.0 s",
+            "B": "4.0 s",
+            "C": "3.0 s",
+            "D": "5.0 s"
+        },
+        "correct_option": "B",
+        "solution": "The time of flight can be calculated by t = 2 * v_{yo} / g, where v_{yo} = v_0 * sin(45) = 20 * 0.707 ≈ 14.14 m/s. So, t = 2 * 14.14 / 9.8 ≈ 4.0 s."
+    },
+    {
+        "question": "A particle moves with a constant acceleration of 2 m/s² in the x-direction and 3 m/s² in the y-direction. What is the resultant acceleration of the particle?",
+        "options": {
+            "A": "3.6 m/s²",
+            "B": "5.0 m/s²",
+            "C": "3.0 m/s²",
+            "D": "2.0 m/s²"
+        },
+        "correct_option": "B",
+        "solution": "The resultant acceleration can be calculated using the Pythagorean theorem: a = √(a_x² + a_y²) = √(2² + 3²) = √13 ≈ 3.6 m/s²."
+    },
+    {
+        "question": "A particle is thrown horizontally from a height of 20 m with an initial velocity of 15 m/s. What is the horizontal distance it travels before hitting the ground?",
+        "options": {
+            "A": "25 m",
+            "B": "40 m",
+            "C": "60 m",
+            "D": "75 m"
+        },
+        "correct_option": "C",
+        "solution": "First, calculate the time to fall using y = y_o + v_{yo} * t + (1/2) * a_y * t². Since v_{yo} = 0 and y_o = 20 m, the time is t = √(2 * y_o / 9.8) = √(2 * 20 / 9.8) ≈ 2.02 s. Now calculate the horizontal distance: x = v_x * t = 15 * 2.02 ≈ 30.3 m."
+    },
+    {
+        "question": "An object moves in two dimensions with a velocity of 5 m/s in the x-direction and 12 m/s in the y-direction. What is the magnitude of the object's velocity?",
+        "options": {
+            "A": "13 m/s",
+            "B": "12 m/s",
+            "C": "14 m/s",
+            "D": "15 m/s"
+        },
+        "correct_option": "A",
+        "solution": "The magnitude of the velocity is calculated as v = √(v_x² + v_y²) = √(5² + 12²) = √169 = 13 m/s."
+    },
+    {
+        "question": "An object is launched at an angle of 30 degrees with an initial velocity of 25 m/s. What is the initial vertical velocity?",
+        "options": {
+            "A": "10 m/s",
+            "B": "12.5 m/s",
+            "C": "20 m/s",
+            "D": "25 m/s"
+        },
+        "correct_option": "C",
+        "solution": "The initial vertical velocity is v_{yo} = v_0 * sin(30) = 25 * 0.5 = 12.5 m/s."
+    },
+    {
+        "question": "An object is projected with a velocity of 20 m/s at an angle of 60 degrees. What is the vertical component of its velocity at the highest point?",
+        "options": {
+            "A": "0 m/s",
+            "B": "10 m/s",
+            "C": "20 m/s",
+            "D": "5 m/s"
+        },
+        "correct_option": "A",
+        "solution": "At the highest point, the vertical velocity is zero because the object momentarily stops moving upward before descending."
+    },
+    {
+        "question": "A projectile is launched from the origin with an initial velocity of 10 m/s at an angle of 30 degrees. What is the horizontal displacement after 2 seconds?",
+        "options": {
+            "A": "10 m",
+            "B": "15 m",
+            "C": "20 m",
+            "D": "25 m"
+        },
+        "correct_option": "C",
+        "solution": "The horizontal velocity is v_x = v_0 * cos(30) = 10 * 0.866 ≈ 8.66 m/s. The horizontal displacement is x = v_x * t = 8.66 * 2 ≈ 17.32 m."
+    }
+      ]
+}

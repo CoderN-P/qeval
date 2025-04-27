@@ -1,0 +1,15 @@
+One of the most important concepts in 2D kinematics are |vectors: has both an amount of quantity and direction|, as now, the direction part of a vector actually matters when dealing with more than 1 dimension. Since the big 3 kinematic equations only work in 1 dimension, 2D kinematics problems rely on us being able to break up a |vector: has both an amount of quantity and direction| into 2 components, 1 horizontal and 1 vertical component.
+
+For a review of vectors with trigonometry, please go to [Lesson 1.1](/course/ap-physics-1/1847893811801620516/1847893811801620517)
+<br></br>
+In order to differentiate variables in different dimensions, the subscripts x and y are used for each respective dimension. This splits the big 3 kinematic equations into:
+- $$v_x=v_{xo}+a_xt$$
+- $$v_y=v_{yo}+a_yt$$
+- $$x=x_o+v_{xo}t+\frac{1}{2}a_xt^2$$
+- $$y=y_o+v_{yo}t+\frac{1}{2}a_yt^2$$
+- $$v_x^2=v_{xo}^2+2a_x(x-x_o)$$
+- $$v_y^2=v_{yo}^2+2a_y(y-y_o)$$
+
+One important thing to notice in these equations is that time is a scalar, and therefore is the same in both dimensions. To solve many 2D Kinematics problems, you will need to find time to link the motion in each dimension.
+
+

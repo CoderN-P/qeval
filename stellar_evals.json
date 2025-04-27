@@ -1,0 +1,102 @@
+[
+    {
+        "grade_level": 9.1,
+        "relevance_score": 0.29053223327088695,
+        "is_accurate": true,
+        "solution_analysis": {
+            "clarity": 52.26,
+            "evaluation": "The solution explanation provided is clear, complete, and aligns well with the correct answer. Here\u2019s a breakdown of the evaluation:\n\n1. **Understanding the Question**: The explanation begins by clearly stating the goal: to find the horizontal distance from the launch point to where the payload lands. This sets a solid foundation for the subsequent calculations.\n\n2. **Initial Velocity Components**: The breakdown of the initial velocity components is thorough. It correctly identifies the horizontal and vertical components of the payload's velocity relative to"
+        },
+        "overall_score": 61.24196699812661
+    },
+    {
+        "grade_level": 10.8,
+        "relevance_score": 0.37236901503619335,
+        "is_accurate": false,
+        "solution_analysis": {
+            "clarity": 51.04,
+            "evaluation": "The explanation provided is clear, complete, and aligns well with the correct answer. Here's a breakdown of the reasoning and calculations:\n\n1. **Understanding the Problem**: The problem involves two launch angles that allow a projectile (foam arrow) to hit the same target at a horizontal distance \\(D\\) with the same initial speed \\(v_0\\). The goal is to find the ratio of the shorter time of flight \\(t_1\\) to the longer time of flight \\(t_2"
+        },
+        "overall_score": 43.8750704510858
+    },
+    {
+        "grade_level": 10.0,
+        "relevance_score": 0.25265557699671126,
+        "is_accurate": false,
+        "solution_analysis": {
+            "clarity": 58.28,
+            "evaluation": "The explanation provided is clear, complete, and effectively aligns with the correct answer. Here\u2019s a breakdown of the evaluation:\n\n1. **Understanding the Problem**: The explanation begins by clearly stating the scenario: a snowball is launched from the base of an incline and the effect of reducing the launch speed on the distance it travels along the slope is being analyzed. This sets a solid foundation for the subsequent steps.\n\n2. **Coordinate Setup**: The explanation correctly establishes a coordinate system and identifies the equation"
+        },
+        "overall_score": 43.40766730990134
+    },
+    {
+        "grade_level": 12.6,
+        "relevance_score": 0.36846729474924367,
+        "is_accurate": true,
+        "solution_analysis": {
+            "clarity": 48.7,
+            "evaluation": "The explanation provided is clear, complete, and aligns well with the correct answer (Option C). Here\u2019s a breakdown of the evaluation:\n\n### Clarity:\n1. **Definitions and Components**: The explanation begins by clearly defining the horizontal and vertical components of the initial velocity, which is essential for understanding projectile motion. This sets a solid foundation for the subsequent analysis.\n  \n2. **Step-by-Step Analysis**: The explanation is structured in a logical sequence, addressing each aspect of the projectile's motion"
+        },
+        "overall_score": 58.12401884247731
+    },
+    {
+        "grade_level": 14.5,
+        "relevance_score": 0.351116518734195,
+        "is_accurate": true,
+        "solution_analysis": {
+            "clarity": 64.2,
+            "evaluation": "The explanation provided is clear, complete, and effectively aligns with the correct answer, which is option D: Initial launch speed \\( v_0 \\). Here\u2019s a breakdown of the evaluation:\n\n1. **Clarity**: The explanation is structured logically, starting with the identification of the problem and the parameters involved. It clearly states the relationship between the horizontal range \\( R \\) and the factors \\( v_0 \\), \\( \\theta \\), \\( h \\), and \\( g \\). The"
+        },
+        "overall_score": 53.45349556202585
+    },
+    {
+        "grade_level": 5.7,
+        "relevance_score": 0.313657992949293,
+        "is_accurate": false,
+        "solution_analysis": {
+            "clarity": 76.93,
+            "evaluation": "The explanation provided is clear, complete, and aligns well with the correct answer of approximately 36.9\u00b0 for the launch angle \u03b8. Here\u2019s a breakdown of the evaluation:\n\n1. **Clarity**: The explanation is structured logically, starting with the fundamental concept that the ball must spend the same amount of time in the air as the truck takes to travel horizontally. This sets a clear foundation for the subsequent calculations.\n\n2. **Completeness**: \n   - The breakdown of the initial"
+        },
+        "overall_score": 34.20273978847879
+    },
+    {
+        "grade_level": 6.1,
+        "relevance_score": 0.2680816426678364,
+        "is_accurate": false,
+        "solution_analysis": {
+            "clarity": 55.81,
+            "evaluation": "The explanation provided is clear, complete, and aligns well with the correct answer of approximately 76.2\u00b0 for the angle \u03b8 above the horizontal. Here\u2019s a breakdown of the evaluation:\n\n### Clarity:\n1. **Step-by-Step Approach**: The solution is organized into distinct steps, making it easy to follow the logic behind the calculations. Each step clearly defines the horizontal and vertical motions separately, which is essential for understanding projectile motion.\n  \n2. **Use of Equations**: The"
+        },
+        "overall_score": 31.92344928003509
+    },
+    {
+        "grade_level": 10.4,
+        "relevance_score": 0.26672382082578616,
+        "is_accurate": false,
+        "solution_analysis": {
+            "clarity": 38.52,
+            "evaluation": "The explanation provided is clear, complete, and effectively aligns with the correct answer (D: Vertical component of initial velocity). Here\u2019s a breakdown of the evaluation:\n\n1. **Clarity**: The explanation restates the problem in simpler terms, making it easier to understand the relationship between vertical motion and time of flight. It clearly distinguishes between horizontal and vertical components of motion, which is crucial for grasping the concept of projectile motion.\n\n2. **Completeness**: The explanation covers all necessary steps"
+        },
+        "overall_score": 40.653714624773585
+    },
+    {
+        "grade_level": 10.8,
+        "relevance_score": 0.3200770863925434,
+        "is_accurate": true,
+        "solution_analysis": {
+            "clarity": 56.66,
+            "evaluation": "The explanation provided is clear, comprehensive, and effectively aligns with the correct answer (Option B). Here\u2019s a breakdown of the evaluation:\n\n### Clarity\n1. **Restatement of the Problem**: The problem is restated simply, making it easy to understand the context and the variables involved (height, speed, angle).\n2. **Step-by-Step Analysis**: The explanation is structured in a logical sequence, breaking down the analysis into vertical and horizontal components. This helps in following the reasoning"
+        },
+        "overall_score": 62.8683125917763
+    },
+    {
+        "grade_level": 11.0,
+        "relevance_score": 0.41568174976334304,
+        "is_accurate": false,
+        "solution_analysis": {
+            "clarity": 68.67,
+            "evaluation": "The explanation provided is clear, complete, and aligns well with the correct answer. Here\u2019s a breakdown of the evaluation:\n\n1. **Understanding the Problem**: The explanation begins by simplifying the problem, which is crucial for clarity. It clearly states the student's goal of maintaining the same horizontal range \\( R \\) while increasing the time of flight to \\( 1.5T \\).\n\n2. **Key Relationships**: The explanation effectively recalls the fundamental relationships governing projectile motion:\n   - The total time"
+        },
+        "overall_score": 46.3374524929003
+    }
+]
